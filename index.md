@@ -4,5 +4,5 @@ Tutorial en español que explica como utilizar la libreria Three.js, para crear 
 * * * * *
 * Introducción
 
-* *   [Presentación]()
+* *   [Presentación](presentacion.md "Presentación")
 * *  [Para que sirve]()
