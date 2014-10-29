@@ -34,3 +34,10 @@ Tutorial en español que explica como utilizar la libreria Three.js.
 * * * Exportación e importación: Los gráficos 3D se pueden crear desde Blender.
 
 
+ * ####¿Para que sirve?
+
+* *  Es capaz de generar escenas 3D con WebGL*, Canvas (2D) y SVG, y utilizando la potencia de JavaScript, podemos interactuar con la animación desde el telcado, el ratón o incluso desde una WebCam.
+
+<br><br>
+*WebGL1 es una especificación estándar que está siendo desarrollada actualmente para mostrar gráficos en 3D en navegadores web. El WebGL permite mostrar gráficos en 3D acelerados por hardware (GPU) en páginas web, sin la necesidad de plug-ins.
+
